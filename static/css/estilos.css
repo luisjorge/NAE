@@ -1,0 +1,60 @@
+/* 
+	Document   : estilos
+	Created on : 24/Abr/2012, 19:54:57
+	Author     : Henrique Moreira
+	Description: Folha principal de estilos
+*/
+
+h1.rodape{
+	background:#d4e1f2;
+	color:#15428B;
+	font-family:verdana, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	padding: 10px 0 10px 0 !important;
+	text-align:center;
+}
+
+div.login{
+	padding:5px;
+}
+
+.bold{
+font-weight:bold;
+}
+
+// propriedades da janela popup
+.ui-dialog-title{}
+
+.ui-widget-header{
+	color:#000000 !important;
+	background:none !important;
+	border:none !important;
+	font-weight:bold !important;
+}
+
+.ui-widget{
+	border:1px solid rgb(171, 171, 171) !important;
+	font-size:12px !important;
+	font-family:verdana,arial !important;
+}
+
+.ui-corner-tl{-moz-border-radius-topleft:0px !important;-webkit-border-top-left-radius:0px !important;}
+.ui-corner-tr{-moz-border-radius-topright:0px !important;-webkit-border-top-right-radius:0px !important;}
+.ui-corner-bl{-moz-border-radius-bottomleft:0px !important;-webkit-border-bottom-left-radius:0px !important;}
+.ui-corner-br{-moz-border-radius-bottomright:0px !important;-webkit-border-bottom-right-radius:0px !important;}
+.ui-corner-top{-moz-border-radius-topleft:0px !important;-webkit-border-top-left-radius:0px !important;-moz-border-radius-topright:0px !important;-webkit-border-top-right-radius:0px !important;}
+.ui-corner-bottom{-moz-border-radius-bottomleft:0px !important;-webkit-border-bottom-left-radius:0px !important;-moz-border-radius-bottomright:0px !important;-webkit-border-bottom-right-radius:0px !important;}
+.ui-corner-right{-moz-border-radius-topright:0px !important;-webkit-border-top-right-radius:0px !important;-moz-border-radius-bottomright:0px !important;-webkit-border-bottom-right-radius:0px !important;}
+.ui-corner-left{-moz-border-radius-topleft:0px !important;-webkit-border-top-left-radius:0px !important;-moz-border-radius-bottomleft:0px !important;-webkit-border-bottom-left-radius:0px !important;}
+.ui-corner-all{-moz-border-radius:0px !important;-webkit-border-radius:0px !important;}
+
+#designacao{
+	font-size:11px;
+	font-style:italic;
+}
+
+#pop_ent{
+	font-size:10px !important;
+	font-family:verdana,arial;
+}
